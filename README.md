@@ -21,24 +21,6 @@ A **modern, responsive** fitness website template designed for **gyms, personal 
 - **JavaScript** (Interactive elements & animations)
 - **Framer Motion** (Smooth animations)
 
-## 📌 Live Demo
-
-👉 **[View Live Website](https://fitness-website-1144.netlify.app/)**
-
-## 📥 Installation & Usage
-
-- Clone the repository:
-
-  ```sh
-  git clone https://github.com/vipulsuthar1144/fitness-website.git
-  ```
-
-- Open the project in **VS Code**.
-- Open with **LIVE SERVER**.
-
-## **🤝 Contributing**
-
-Love this project? Want to make it even better? Feel free to **open issues, submit pull requests, or just drop feedback**! Let’s build something amazing together. 💡💻
 
 ## **📬 Let's Connect!**
 
