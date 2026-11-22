@@ -42,7 +42,3 @@ Love this project? Want to make it even better? Feel free to **open issues, subm
 
 ## **📬 Let's Connect!**
 
-Got feedback or ideas? Reach out to me! I’d love to hear from you. 🎉
-
-- 📧 Email: contact@example.com
-- 💼 LinkedIn: [Vipul Suthar | LinkedIn](https://www.linkedin.com/in/vipulsuthar1144/)
