@@ -22,5 +22,3 @@ A **modern, responsive** fitness website template designed for **gyms, personal 
 - **Framer Motion** (Smooth animations)
 
 
-## **📬 Let's Connect!**
-
